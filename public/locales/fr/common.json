@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "Porte de l'Égypte ancienne",
+    "subtitle": "Découvrez les merveilles des pyramides",
+    "cta": "Activer le portail"
+  },
+  "nav": {
+    "tours": "Tours",
+    "hotels": "Hôtels",
+    "packages": "Forfaits",
+    "gallery": "Galerie",
+    "family": "Famille",
+    "contact": "Contact",
+    "agent": "Agent"
+  },
+  "footer": {
+    "text": "Rejoignez des milliers d'aventuriers",
+    "view": "Voir toutes les visites",
+    "book": "Réservez maintenant - WhatsApp"
+  }
+}
